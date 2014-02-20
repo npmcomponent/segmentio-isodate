@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [segmentio/isodate](http://github.com/segmentio/isodate). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/segmentio-isodate`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # isodate
   
   Parse an ISO date string into a Date. Works cross-browser, even in the old, dumb ones ;)

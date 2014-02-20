@@ -1,24 +1,13 @@
 {
-  "name": "isodate",
+  "name": "segmentio-isodate",
+  "description": "Parse an ISO date string into a Date.",
   "version": "0.0.1",
-  "description": "Parse an ISO date string into a Date",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "make test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/segmentio/isodate"
-  },
   "keywords": [
-    "isodate"
+    "ISO",
+    "date",
+    "datestring",
+    "parse"
   ],
-  "author": "Segment.io",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/segmentio/isodate/issues"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
